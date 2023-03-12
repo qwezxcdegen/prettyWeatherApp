@@ -12,4 +12,3 @@ Light theme
 
 Dark theme
 ![light theme](https://i.imgur.com/4ZbgWqU.png)
-# prettyWeatherApp
