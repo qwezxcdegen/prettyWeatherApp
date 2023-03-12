@@ -1,6 +1,6 @@
 # prettyWeatherApp
 
-prettyWeatherApp is an app which shows the weather in the certain city. Allows to find in Russian and English language
+prettyWeatherApp is an app which shows the weather in the certain city. Allows to find in Russian and English languages
 
 # Screenshots
 
